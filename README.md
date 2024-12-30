@@ -3,6 +3,7 @@
 <h2>Description</h2>
 This is my semester project that I have with my CYBER 262. Our goal was to create a script that does certain things such as backing up files, encrypting files and checking their hash value. For my script I have option menu insted of creating 3 separate files I have combined them into a single file. The file has 6 menu items: Compress, Encrypt, Decrypt, Decompress, Checksum and Exit. 
 
+
 <b>ATTENTION: THIS SCRIPT REQUIRES USER TO INSTALL AESCRYPT SOFTWARE TO DO ENCRYPTION OPERATIONS!</b>
 
 <h2>Requirements</h2>
