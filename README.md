@@ -10,3 +10,9 @@ This is my semester project that I have with my CYBER 262. Our goal was to creat
  - <b>Then the file needs to be compressed and encrypted</b>
  - <b>An additional .bat file is needed to decrypt and decompress the file when a database restore is necessary</b>
  - <b>Another .bat file is needed to create a checksum (hash) for verification that any file run through it is unchanged and you’ll need to demonstrate that the hash works by modifying the file</b>
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Windows Batch File</b>
+- <b>AES Crypt (for encrypting files)</b>
+
