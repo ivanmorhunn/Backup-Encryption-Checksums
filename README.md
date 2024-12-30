@@ -5,7 +5,7 @@ This is my semester project that I have with my CYBER 262. Our goal was to creat
 
 
 <b>ATTENTION: THIS SCRIPT REQUIRES USER TO INSTALL AESCRYPT SOFTWARE TO DO ENCRYPTION OPERATIONS!</b>
-
+Here's a link: https://www.aescrypt.com/download/
 <h2>Requirements</h2>
  
 - Backups are generated via Windows .bat file
