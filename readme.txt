@@ -1,0 +1,1 @@
+!!!!!AECrypt must be installed in the system for the script to work correctly. Works on all Windows 10 operating systems.
